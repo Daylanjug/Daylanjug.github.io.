@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Mi primera pagina</title>
+</head>
+<body>
+    <header>
+        <div>
+            <img src="./imagenes/junmex.jpg" alt="logo JA">
+        </div>
+        <nav>
+          <ul>
+             <a href="https://Junior.org.ar"><li>HOME</li></a>
+             <a href="#nosotros"><li>NOSOTROS</li></a>
+             <a href="https://Junior.org.ar/inscripciones/"><li>INSCRIPCIONES</li></a>
+             <a href="https://Junior.org.ar/novedades"><li>NOVEDADES</li></a>
+             <a href="#Val"><li>VALORES</li></a>
+          </ul>
+        </nav>
+    </header> 
+   <div class="present">
+    <h1>QUIÉNES SOMOS</h1>
+    <p>Somos una de las ONG más grandes del mundo.A través del aprendizaje activo en educación financiera, preparación para el trabajo y emprendimiento, preparamos a los jóvenes para que sean protagonistas de su futuro.</p>
+   </div> 
+<div class="contenedor">
+ <div class="cj">
+     <img src="./imagenes/desafio.jpg" alt="DESAFIO">
+     <h1>EL DESAFIO</h1>
+     <p>Insertos en la cuarta revolución industrial, la tecnología está presente en todos los ámbitos de la vida: aparecen la robótica, la biotecnología, la inteligencia artificial. Desaparecen profesiones y surgen nuevas.</p>
+ </div>
+ <div class="cj">
+ <img src="./imagenes/solución.jpg" alt="SOLUCIÓN">
+ <h1>LA SOLUCIÓN</h1>
+ <p>Desde hace 100 años, promovemos una actitud emprendedora en millones de jóvenes para que se sientan protagonistas y emprendedores de sus propias vidas.</p>
+ </div>
+ <div class="cj">
+     <img src="./imagenes/Ejes de trabajo.png" alt="Eje de trabajo">
+     <h1>NUESTROS EJES DE TRABAJO</h1>
+     <h3>Emprendimiento</h3>
+     <p>Planificar, tomar riesgos, innovar, trabajar en equipo y liderar con una actitud emprendedora.</p>
+     <h3>Preparación para el trabajo</h3>
+     <p>Maximizar las posibilidades de conseguir empleo a través del desarrollo de competencias socioemocionales.</p>
+     <h3>Educación financiera</h3>
+     <p>Presupuestar, ahorrar, invertir y administrar el dinero para tomar decisiones conscientes que acompañen cada proyecto de vida.</p>
+     <h3>Habilidades digitales</h3>
+     <p>Desarrollar las competencias tecnológicas y potenciar las oportunidades en áreas claves.</p>
+ </div>
+</div>
+<div id="Val"> 
+<h1>VALORES</h1>
+<p>
+    -Creemos en el potencial sin límite de los jóvenes.
+    -Promovemos un aprendizaje activo, relevante y práctico, a través de la metodología de aprender haciendo.
+    -Enseñamos economía y espíritu emprendedor basados en los valores y los principios delmercado para construir un mundo más sostenible.
+    -Trabajamos con pasión, honestidad, integridad y excelencia.
+    -Buscamos la diversidad de trayectorias, perspectivas y talentos en nuestro equipo,voluntarios y juntas directivas para reflejar las geografías y comunidades a las que servimos.
+    -Fomentamos el poder del trabajo en equipo y la colaboración.
+</p>
+</div>
+
+<div id="nosotros">
+   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.054681647928!2d-58.46718025896296!3d-34.60277875756255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a33533433603c1%3A0x45810ad3a92f29c7!2sJunior%20Achievement%20Argentina!5e0!3m2!1ses-419!2smx!4v1691903047441!5m2!1ses-419!2smx" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+   <iframe width="500" height="300" src="https://www.youtube.com/embed/CAvju4e-EPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<footer>
+    <p> Conocé nuestra Política de privacidad | ©2022 Junior Achievement Argentina. Todos los derechos reservados.</p>
+</footer>
+</body>
+</html>
